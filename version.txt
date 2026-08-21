@@ -1,1 +1,1 @@
-1.5|https://github.com/digitalautomationgrowth/unidesign-elite-app-updates/releases/download/v1.5/UD_ELITE_EXPORT_V1.5.exe
+1.6|https://github.com/digitalautomationgrowth/unidesign-elite-app-updates/releases/download/v1.6/UD_ELITE_EXPORT_V1.6.exe
