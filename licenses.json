@@ -1,11 +1,13 @@
 {
   "824D6659D02D6F8F": {
     "active": true,
-    "customer": "UNIDESIGN ELITE"
+    "customer": "UNIDESIGN ELITE",
+    "expiry": "2026-10-07"
   },
   "D711B33C7557919C": {
     "active": true,
-    "customer": "MY TESTING"
+    "customer": "MY TESTING",
+    "expiry": "2026-09-24"
   },
   "E8C0E8545393EE86": {
     "active": true,
