@@ -1,1 +1,6 @@
-New Updated Version 1.7.4
+UNIDESIGN ELITE — V1.7.5
+
+• Fixed: EMR stone count and CERT. NO. not showing on the packing list.
+• Fixed: Silver/platinum lines printing on gold-only invoices.
+• Fixed: Wastage lines showing when the packing list had no wastage.
+• Fixed: Net Quantity 0.00 on silver lines in Product Items.
