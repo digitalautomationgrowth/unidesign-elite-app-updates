@@ -1,4 +1,4 @@
-UNIDESIGN ELITE — V1.7.6
+UNIDESIGN ELITE — V1.7.7
 
-• Packing list DIA. QLTY now shows the diamond quality from the EXIM file ('Shape/Clarity/Color', e.g. RBC/VVS2/F) instead of the customs packing list's own DIA. QLTY.
-• Without an EXIM file nothing changes.
+• Gold + platinum pieces (e.g. 14KT gold with 950 platinum): the packing list now shows the platinum on its own line under the gold — KT 950 with the platinum net, wastage, rate and value, the same way silver shows its 925 line.
+• The invoice item line reads 14/950 under KT/FINENESS. Amounts and totals are unchanged.
